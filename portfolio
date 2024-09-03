@@ -210,7 +210,7 @@ button:hover {
     <section id="about">
         <div class="container">
             <h2>About Me</h2>
-            <p>I am currently in my second year of pursuing a BSc in Computer Science, where I have developed strong proficiency in programming languages such as Python and Java. My technical toolkit also includes experience with powerful development frameworks and tools like Django and Visual Studio Code, which I utilize to build efficient and scalable web applications.
+            <p>Hey! I am currently in my second year of pursuing a BSc in Computer Science, where I have developed strong proficiency in programming languages such as Python and Java. My technical toolkit also includes experience with powerful development frameworks and tools like Django and Visual Studio Code, which I utilize to build efficient and scalable web applications.
 In addition to my academic endeavors, I am deeply committed to continuous learning, regularly engaging in online courses and internships that further grow my skills. This dedication reflects my passion for professional growth and my aspiration to excel in the dynamic landscape of the digital world. I am enthusiastic about the prospect of collaborating with others to explore innovative solutions that drive meaningful impact in the digital world.</p>
         </div>
     </section>
